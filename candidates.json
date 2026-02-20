@@ -1,0 +1,51 @@
+[
+    {
+        "Full Name": "Nupur shivani",
+        "Email": "golu34@gmail.com",
+        "Phone Number": "7049819064",
+        "Years of Experience": "1",
+        "Desired Position": "AI ML",
+        "Current Location": "indore",
+        "Tech Stack": "python"
+    },
+    {
+        "Full Name": "Gourev agrawal",
+        "Email": "golu@gmail.com",
+        "Phone Number": "7049819064",
+        "Years of Experience": "1",
+        "Desired Position": "python ",
+        "Current Location": "indore",
+        "Tech Stack": [
+            "python"
+        ]
+    },
+    {
+        "Full Name": "Nupur",
+        "Email": "nupurshivani23@gmail.com",
+        "Phone Number": "7245376892",
+        "Years of Experience": "1",
+        "Desired Position": "AI/ML Engineer",
+        "Current Location": "Indore",
+        "Tech Stack": [
+            "python",
+            "machine learning",
+            "deep learning",
+            "genai"
+        ]
+    },
+    {
+        "Full Name": "nupur",
+        "Email": "nupurshivani23@gmail.com",
+        "Phone Number": "5643278910",
+        "Years of Experience": "0",
+        "Desired Position": "AI/ML",
+        "Current Location": "Indore",
+        "Tech Stack": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "GenAI",
+            "Docker"
+        ]
+    }
+]
